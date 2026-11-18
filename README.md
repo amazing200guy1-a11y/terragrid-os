@@ -15,6 +15,8 @@
 
 ## Executive Summary: Closed-Loop Industrial Engineering (Zero NGO Fluff)
 
+> **The Core Axiom:** *"One sector's expensive waste becomes the next sector's free fuel."*
+
 Traditional urban municipal planning treats roadways, municipal solid waste management, livestock agriculture, and electrical power generation as disconnected, money-losing government budget line items. In tropical West Africa, this results in:
 1. **Catastrophic Road Degradation:** Flexible asphalt washed out by heavy seasonal rainfall within 2–4 years.
 2. **Farmer-Herder Land Conflicts:** Open-grazing cattle wandering into crop farmlands due to dry-season water and feed scarcity.
@@ -22,9 +24,38 @@ Traditional urban municipal planning treats roadways, municipal solid waste mana
 4. **Harmattan Solar Dust Losses:** Solar streetlights losing 35%–60% generation capacity within 14 days without manual washing.
 
 **TerraGrid OS** unites these fragmented systems into a self-funding, closed-loop cyber-physical industrial utility:
-* **The Waste of One System is Zero-Cost Feedstock for the Next:** Demolition rubble becomes sub-base aggregate for indestructible granite cobblestone roads; urban organic waste and cattle manure feed high-density anaerobic digesters; crop chaff from farmers balances carbon-to-nitrogen ($C:N$) ratios for continuous power.
+* **The Waste of One System is Zero-Cost Feedstock for the Next:** Demolition rubble becomes sub-base aggregate for indestructible granite cobblestone roads; urban organic waste and cattle manure feed high-density anaerobic digesters; crop chaff from farmers feeds ranch livestock and balances carbon-to-nitrogen ($C:N$) ratios in the digester; digestate fertilizer returns to the farms; harvested road stormwater irrigates crops and hydrates cattle.
 * **Commercial Monetization Without Grants:** Generates continuous clean microgrid electricity ($2.14\text{ kWh/m}^3$), compressed biomethane cooking gas ($CBG$ sold at $₦200/\text{kg}$ vs $₦1,300/\text{kg}$ fossil LPG), and organic granular bio-fertilizer ($NPK$ at $₦12,000/\text{bag}$ vs $₦45,000/\text{bag}$ chemical fertilizer).
 * **Offline Accessibility for Rural Africa:** Includes an interactive **USSD gateway (`*347*88#`)** allowing crop farmers with basic GSM feature phones to trade post-harvest crop chaff for fertilizer vouchers and cooking gas credits without needing internet access or smartphones.
+
+---
+
+## The "Minimum Viable Loop" (MVL): Phased Industrial Deployment
+
+To prevent implementation fatigue, TerraGrid OS is engineered for a **2-Phase Staged Rollout**:
+
+```
+PHASE 1: THE BIO-REFINERY MICRO-LOOP (Days 1–90) — Zero Civil Excavation Required
+┌────────────────────────┐         ┌────────────────────────┐
+│  Zero-Grazing Cattle   │ Manure  │  Anaerobic Digester    │──► Continuous Electricity (0.703 MW)
+│  & Farmer Crop Chaff   ├────────►│  & CHP Gen-Set         │──► Bottled CBG Cooking Gas (₦200/kg)
+│  (USSD *347*88# Mesh)  │ Chaff   │  (Subsystems C + E)    │──► Granular NPK Bio-Fertilizer
+└────────────────────────┘         └───────────┬────────────┘
+                                               │
+               Generates ₦3.11B ($2.1M USD) Annual Commercial Cash Flow
+                                               │
+                                               ▼
+PHASE 2: SELF-FUNDED CIVIL EXPANSION (Months 3–12) — Funded by Phase 1 Profits
+┌────────────────────────┐         ┌────────────────────────┐
+│  Hydraulic Cobblestone │ Sub-base│  EV Municipal Waste    │──► Clears illegal dumpsites
+│  Pavers & Stormwater   │ Rubble  │  Recovery Fleet        │──► Diverts demolition aggregate
+│  HDPE Aquifer Cisterns │◄────────┤  & Self-Cleaning Solar │──► 80.3M Liters rainwater harvested
+│  (Subsystem A)         │         │  (Subsystems B + D)    │    for farm irrigation & ranch cattle
+└────────────────────────┘         └────────────────────────┘
+```
+
+1. **Phase 1: The Bio-Refinery & USSD Loop (Days 1–90):** Requires zero road construction. Immediately deploys Subsystems C + E. Smallholder farmers trade crop chaff via USSD `*347*88#` for fertilizer vouchers; cattle feedlots supply manure; the digester generates immediate cash flow (**₦473k/day in bottled gas + ₦8M/day in bio-fertilizer**).
+2. **Phase 2: The Self-Funded Civil Scale (Months 3–12):** Operational profits from Phase 1 purchase hydraulic clamp pavers and EV tractors. Inert construction rubble is crushed into cobblestone sub-base beds; CNC granite roads are paved at $1,350\text{ m}^2/\text{day}$; harvested road stormwater irrigates the very farms providing the crop chaff. The cycle is 100% self-perpetuating.
 
 ---
 

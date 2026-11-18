@@ -32,12 +32,13 @@
 ```text
 TerraGrid OS is an autonomous cyber-physical infrastructure operating system and closed-loop bio-utility engineered specifically for West African municipal realities (modeled on Accra, Ghana and Abuja, Nigeria corridors). 
 
-Instead of treating municipal waste management, road maintenance, livestock farming, and electricity blackouts as disconnected, money-losing government expenditures, TerraGrid OS couples them into a self-sustaining industrial loop where the waste output of one module serves as the zero-cost feedstock of the next:
+The Core Insight: "One sector's expensive waste becomes the next sector's free fuel."
 
-1. Road Infrastructure: Replaces tropical rain-vulnerable flexible asphalt with indestructible modular CNC granite cobblestones (>220 MPa compressive strength) laid rapidly by 6-meter hydraulic clamp pavers (1,350 m2/day), supported by sub-surface stormwater catchments that harvest 80.3M Liters of rainwater annually into mega-ranch cisterns.
-2. Bio-Refinery & Energy Microgrid: Transitions open-grazing cattle into high-density zero-grazing feedlots and co-digests manure with urban organic waste and rural crop residues (maize/sorghum chaff), generating 16,879 kWh/day (0.703 MW continuous clean electricity), 189x 12.5kg cylinders of Compressed Biomethane (CBG) cooking gas (sold at ₦200/kg vs ₦1,300/kg fossil LPG), and 672x 50kg bags of organic granular NPK bio-fertilizer.
-3. Municipal Waste & Rubble Recovery: Deploys an EV tractor fleet (recharged via the biogas microgrid) that diverts demolition rubble into quarry crushers for roadbed sub-base and sends organics to digesters.
-4. Offline Rural Accessibility: Includes an interactive GSM USSD protocol (*347*88#) allowing rural crop farmers with basic non-smartphones to trade crop chaff for bio-fertilizer and gas vouchers without internet access.
+Instead of treating municipal waste management, road maintenance, livestock farming, and electricity blackouts as disconnected, money-losing government expenditures, TerraGrid OS couples them into a self-sustaining industrial loop:
+
+1. The Complete Agricultural & Urban Loop: Smallholder farmers supply post-harvest crop chaff (maize/sorghum stalks) which feeds ranch cattle and balances digester C:N ratios. In return, farmers receive organic NPK bio-fertilizer to regenerate their soil. Cobblestone roadways channel 80.3M Liters of seasonal rainwater into cisterns for farm irrigation and cattle hydration.
+2. The Minimum Viable Loop (MVL): To ensure immediate feasibility, a city does not need to build all 5 subsystems on Day 1. Phase 1 (Days 1–90) requires zero civil excavation: it deploys Subsystem C + E (cattle manure + farmer chaff via USSD *347*88# into anaerobic digesters), generating 16,879 kWh/day clean electricity, 189x 12.5kg cylinders of cooking gas (₦200/kg vs ₦1,300/kg fossil LPG), and 672x 50kg bags of organic bio-fertilizer. This creates ₦3.11 Billion ($2.1M USD) in annual cash flow.
+3. Phase 2 (Months 3–12): Operational profits from Phase 1 fund the hydraulic clamp pavers and EV waste tractors to pave permanent >220 MPa CNC granite cobblestone roads using recycled construction demolition rubble as sub-base aggregate, saving $16.1M in repaving costs over 40 years.
 ```
 
 ### Q2: How does it work? (Architecture & Technical Execution)
