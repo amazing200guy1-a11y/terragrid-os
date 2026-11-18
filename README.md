@@ -2,6 +2,8 @@
 
 [![Tech Hub Africa 2026](https://img.shields.io/badge/Challenge-Tech%20Hub%20Africa%202026-00F5FF?style=for-the-badge&logo=dorahacks)](https://dorahacks.io)
 [![Formal Verification](https://img.shields.io/badge/Tests-15%2F15%20PASSING%20(0.001s)-10B981?style=for-the-badge)](./test_terragrid.py)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/edG68zWpWUo)
+[![Live Cockpit](https://img.shields.io/badge/Live%20Cockpit-GitHub%20Pages-6366F1?style=for-the-badge)](https://amazing200guy1-a11y.github.io/terragrid-os/)
 [![Architecture](https://img.shields.io/badge/Architecture-Closed--Loop%20Cyber--Physical-F59E0B?style=for-the-badge)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 

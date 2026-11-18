@@ -20,7 +20,7 @@
 | **Tagline / One-Liner** | Under 100 Characters | `Closed-loop cyber-physical utility & bio-refinery for African urban corridors.` (76 chars) |
 | **GitHub Repository** | Public URL | https://github.com/amazing200guy1-a11y/terragrid-os |
 | **Live Web Cockpit** | Public URL | https://amazing200guy1-a11y.github.io/terragrid-os/ |
-| **Demo Video URL** | YouTube URL | *[To be recorded / linked]* |
+| **Demo Video URL** | YouTube URL | https://youtu.be/edG68zWpWUo |
 | **Tracks Selected** | Multi-select | Electricity Efficiency, Traffic Mitigation, Pollution Control |
 | **Tags / Built With** | Comma-separated | Python, HTML5, CSS3, JavaScript, Smart City, Renewable Energy, AWS Greengrass, IBM Watsonx, USSD, IoT, CleanTech |
 
