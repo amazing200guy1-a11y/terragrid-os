@@ -97,40 +97,41 @@ PHASE 2: SELF-FUNDED CIVIL EXPANSION (Months 3–12) — Funded by Phase 1 Profi
 ## Deterministic Mathematical Specifications & Physical Formulas
 
 ### 1. Subsystem A: Modular Granite Cobblestone & Rainwater Hydraulics
-* **Compressive Strength:** Interlocking CNC-cut granite cobblestones $>220\text{ MPa}$ vs traditional flexible asphalt ($3.5\text{–}5.0\text{ MPa}$).
-* **Hydraulic Clamp Paver Throughput:** 6-meter mechanical paver lays $1,350\text{ m}^2/\text{day}$ (fleet of 2–3 pavers lays $2,700\text{–}4,050\text{ m}^2/\text{day}$).
+* **Compressive Strength:** Interlocking CNC-cut granite cobblestones >220 MPa vs traditional flexible asphalt (3.5 to 5.0 MPa).
+* **Hydraulic Clamp Paver Throughput:** 6-meter mechanical paver lays 1,350 m²/day (fleet of 2–3 pavers lays 2,700 to 4,050 m²/day).
 * **Stormwater Runoff Formula:**
-  $$\text{Harvested Water (Liters)} = \text{Road Area (m}^2\text{)} \times \text{Rainfall (mm)} \times 0.85\text{ (Runoff Efficiency)}$$
-* **Silt-Trap Interception:** Roadside catch basins trap $92.4\%$ of airborne Harmattan dust particulates before directing clean runoff through subterranean perforated HDPE pipes into mega-ranch storage cisterns.
+  Harvested Water (Liters) = Road Area (m²) × Rainfall (mm) × 0.85 (Runoff Efficiency)
+  For a 5.0 km × 14 m corridor (70,000 m²) at 1,350 mm annual rainfall = 80,325,000 Liters/year.
+* **Silt-Trap Interception:** Roadside catch basins trap 92.4% of airborne Harmattan dust particulates before directing clean runoff through subterranean perforated HDPE pipes into mega-ranch storage cisterns.
 
 ### 2. Subsystem B: EV Municipal Waste & Rubble Fleet
 * **Automated Waste Stream Segregation:**
-  * **Organic Solid Waste ($55\%$):** Transported to Anaerobic Bio-Refinery digesters.
-  * **Inert Construction Demolition Rubble ($25\%$):** Routed to jaw crushers for roadbed sub-base aggregate, eliminating virgin quarry mining.
-  * **Recyclable Plastics/Metals ($15\%$):** Baled for industrial recycling revenue ($₦180,000/\text{ton}$).
-  * **Residual Reject ($5\%$):** Diverted safely from open burning.
-* **Fleet Power:** Electric haulers and tractors recharged directly via the bio-refinery CHP microgrid, eliminating diesel fuel expenses ($₦1,150/\text{liter}$).
+  * **Organic Solid Waste (55% Citywide Baseline / 64% Kaneshie Market Hotspot):** Transported to Anaerobic Bio-Refinery digesters.
+  * **Inert Construction Demolition Rubble (25% Citywide Baseline / 28% Hotspot):** Routed to jaw crushers for roadbed sub-base aggregate, eliminating virgin quarry mining.
+  * **Recyclable Plastics/Metals (15%):** Baled for industrial recycling revenue (₦180,000/ton).
+  * **Residual Reject (5%):** Diverted safely from open burning.
+* **Fleet Power:** Electric haulers and tractors recharged directly via the bio-refinery CHP microgrid, eliminating diesel fuel expenses (₦1,150/liter).
 
 ### 3. Subsystem C: Zero-Grazing Cattle & Farmer-Chaff Bio-Refinery
-* **Wet Manure Collection:** $9.5\text{ kg collectible wet manure/head/day}$.
-* **Crop Chaff Co-Digestion Boost:** Adding post-harvest maize husks and sorghum stalks balances the carbon-to-nitrogen ratio ($C:N$), boosting base biogas yield by $+38\%$.
+* **Wet Manure Collection:** 9.5 kg collectible wet manure/head/day.
+* **Crop Chaff Co-Digestion Boost:** Adding post-harvest maize husks and sorghum stalks balances the carbon-to-nitrogen ratio (C:N), boosting base biogas yield by +38%.
 * **Energy Generation Math:**
-  $$\text{Specific Electrical Yield} = \frac{22\text{ MJ/m}^3 \times 0.35\text{ (CHP Efficiency)}}{3.6\text{ MJ/kWh}} \approx 2.14\text{ kWh per m}^3\text{ Biogas}$$
-  * A 12,000 cattle feedlot + 66 tons urban waste + 30 tons crop chaff yields **$16,879\text{ kWh/day}$ ($0.703\text{ MW}$ continuous baseload power)**.
-* **Bottled Cooking Gas (CBG):** $189\times 12.5\text{kg cylinders/day}$ compressed at $200\text{ bar}$, retailing at $₦200/\text{kg}$ ($85\%$ savings vs fossil LPG).
-* **Granular Organic Bio-Fertilizer:** $672\times 50\text{kg bags/day}$ of dewatered pathogen-free NPK digestate pellets retailing at $₦12,000/\text{bag}$ ($73\%$ savings vs imported chemical fertilizer).
-* **Fugitive Methane Abatement:** Capturing zero-grazing manure eliminates $158.3\text{ Tons CO}_2\text{e/day}$ based on Methane's 100-year Global Warming Potential ($\text{GWP} = 28\times$).
+  Specific Electrical Yield = (22 MJ/m³ × 0.35 CHP Efficiency) / 3.6 MJ/kWh = 2.14 kWh per m³ Biogas.
+  A 12,000 cattle feedlot + 66 tons urban waste + 30 tons crop chaff yields **16,879 kWh/day (0.703 MW continuous baseload power)**.
+* **Bottled Cooking Gas (CBG):** 189× 12.5kg cylinders/day compressed at 200 bar, retailing at ₦200/kg (85% savings vs fossil LPG).
+* **Granular Organic Bio-Fertilizer:** 672× 50kg bags/day of dewatered pathogen-free NPK digestate pellets retailing at ₦12,000/bag (73% savings vs imported chemical fertilizer).
+* **Fugitive Methane Abatement:** Capturing zero-grazing manure eliminates 158.3 Tons CO₂e/day based on Methane's 100-year Global Warming Potential (GWP = 28×).
 
 ### 4. Subsystem D: Autonomous Roadside Telemetry & Self-Cleaning Solar Grid
-* **Harmattan Dust Derating Factor:** Unwashed photovoltaic panels in West Africa lose $42\%$ capacity within 14 days of airborne dust accumulation.
-* **Automated Robotic Wiper Cycles:** Automated dual-direction wiper blades with hydrophobic nano-coating maintain $\ge 98.5\%$ capacity factor, recovering $+133.7\text{ kWh/day}$ along a 15 km streetlight corridor.
+* **Harmattan Dust Derating Factor:** Unwashed photovoltaic panels in West Africa lose 42% capacity within 14 days of airborne dust accumulation.
+* **Automated Robotic Wiper Cycles:** Automated dual-direction wiper blades with hydrophobic nano-coating maintain ≥ 98.5% capacity factor, recovering +133.7 kWh/day along a 15 km streetlight corridor.
 
 ### 5. Subsystem E: Circular Farmer-Ranch Double-Entry Ledger & USSD Engine
 * **Offline Rural Protocol:** Accessible on basic non-smartphone GSM feature phones via `*347*88#`.
-* **Incentive Exchange Rate:** $1\text{ kg crop chaff} = 2.5\text{ TerraCredits (TC)}$ (worth $₦50$).
+* **Incentive Exchange Rate:** 1 kg crop chaff = 2.5 TerraCredits (TC) (worth ₦50).
 * **Redemption Thresholds:**
-  * $500\text{ TC} = 1\times 50\text{kg bag of Granular Organic Bio-Fertilizer}$.
-  * $125\text{ TC} = 1\times 12.5\text{kg cylinder refill of Compressed Biomethane (CBG)}$.
+  * 500 TC = 1× 50kg bag of Granular Organic Bio-Fertilizer.
+  * 125 TC = 1× 12.5kg cylinder refill of Compressed Biomethane (CBG).
 * **Cryptographic Proof:** Every delivery and redemption generates an immutable SHA-256 transaction hash.
 
 ---
@@ -139,9 +140,11 @@ PHASE 2: SELF-FUNDED CIVIL EXPANSION (Months 3–12) — Funded by Phase 1 Profi
 
 | Civil Engineering Parameter | Traditional Flexible Asphalt | TerraGrid Modular CNC Granite | Structural Advantage |
 | :--- | :--- | :--- | :--- |
-| **Compressive Strength** | $3.5\text{–}5.0\text{ MPa}$ | **$>220\text{ MPa}$** | **$+4,300\%$ Rigidity** |
-| **Tropical Lifespan** | $3.5\text{ Years}$ (Washouts) | **$40.0\text{ Years}$** | **$+1,040\%$ Durability** |
-| **40-Year Resurfacings Needed** | 11 Complete Overhauls | **$0$** (Only joint sand top-up) | **11 Capital Investments Saved** |
+| **Compressive Strength** | 3.5 to 5.0 MPa | **>220 MPa** | **+4,300% Rigidity** |
+| **Tropical Lifespan** | 3.5 Years (Washouts) | **40.0 Years** | **+1,040% Durability** |
+| **40-Year Resurfacings Needed** | 11 Complete Overhauls | **0** (Only joint sand top-up) | **11 Capital Investments Saved** |
+| **Total 40-Yr Cost (5km × 14m)** | **$19,600,000 USD** | **$3,500,000 USD** | **$16,100,000 USD Net Savings** |
+| **Stormwater Harvesting** | None (Water destroys subgrade) | **80.3 Million Liters/Year** | **Direct Ranch Cistern Storage** |
 | **Total 40-Yr Cost (5km $\times$ 14m)** | **$\$19,600,000\text{ USD}$** | **$\$3,500,000\text{ USD}$** | **$\$16,100,000\text{ USD Net Savings}$** |
 | **Stormwater Harvesting** | None (Water destroys subgrade) | **$80.3\text{ Million Liters/Year}$** | **Direct Ranch Cistern Storage** |
 
